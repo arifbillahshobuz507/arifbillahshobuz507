@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/arifbillahshobuz507" target="_blank">
-    🔗 Visit My GitHub
+  <a href="https://www.linkedin.com/in/arif-billah-shobuz/" target="_blank">
+    🔗 Visit My Linkedin
   </a>
 </p>
 
